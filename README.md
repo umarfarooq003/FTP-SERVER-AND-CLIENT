@@ -41,7 +41,7 @@ Installation Steps
 
     Clone this repository:
 
-git clone https://github.com/WelaMasroof/FTP-server-and-client.git
+git clone https://github.com/umarfarooq003/FTP-SERVER-AND-CLIENT
 cd ftp-client-server
 
 Install the necessary libraries:
